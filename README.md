@@ -71,6 +71,7 @@ Nuestro objetivo es:
 
 ***TEAM GROWTH***
 References: https://github.com/chiper-inc/bi-challenge
+
 Thanks: https://github.com/kikeex
 
 CHIPER TEAM
