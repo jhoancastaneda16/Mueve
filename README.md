@@ -25,6 +25,14 @@ Tenga en cuenta que la fracción de conversión atribuida (IHC_Conv), es decir, 
 
 ***table_C_coupons.csv:***
 
+ * Store ID - Identificador del cliente
+ * Store Allocation - Segmento objetivo del cupon
+ * Order Created At Date - Fecha de creación de la orden de compra
+ * Sales Coupon Code - Nombre del cupon
+ * Sales City - Ciudad
+ * Sales Net - Neto de venta
+ * Discounted Value - Descuento otorgado por el cupon
+ 
 ***DESARROLLO***
 
 Obviamente, queremos que analices los datos y nos muestres lo que puedes aprender de ellos.
