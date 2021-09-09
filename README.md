@@ -70,6 +70,7 @@ Nuestro objetivo es:
  * Ver cómo puedes resumir y presentar los resultados.
 
 ***TEAM GROWTH***
+
 References: https://github.com/chiper-inc/bi-challenge
 
 Thanks: https://github.com/kikeex
