@@ -1,7 +1,7 @@
 # Chiper-Growth
 Assesment excel by team growth
 
-Repositorios archivos (shorturl.at/uyzS0)
+Repositorios archivos (www.shorturl.at/uyzS0)
 
 Nuestro reto se enmarca en el contexto del comercio electrónico o del marketing online. Normalmente, cuando se vende algo en Internet, el usuario/cliente llega varias veces (por ejemplo, visitas) al sitio, a menudo también a través de diferentes canales (por ejemplo, correo electrónico, Facebook, Google, etc.), antes de comprar algo (una conversión o transacción).
 
