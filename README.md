@@ -49,7 +49,7 @@ Para los archivos table_A_conversions & table_B_attribution, los cuales se cruza
  * Algunas segmentaciones de clientes, identificar los clientes inactivos.
  * Diseñar una campaña para los clientes que tengan una inactividad mayor a 30 días con respecto al max(Conv_Date) del dataset table_A_conversions
 
-Para el archivo table_C_coupons esperamos:
+Para el archivo table_C_coupons esperamos (PRIORIDAD) :
 
  * Visión general a lo largo del período 
  * Evaluación de los siguientes KPI 
