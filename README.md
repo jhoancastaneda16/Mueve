@@ -79,6 +79,8 @@ Nuestro objetivo es:
 
 ***TEAM GROWTH***
 
+Question? please contact whatsapp +57 315 611 75 59
+
 References: https://github.com/chiper-inc/bi-challenge
 
 Thanks: https://github.com/kikeex
