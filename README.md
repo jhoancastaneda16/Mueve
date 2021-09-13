@@ -55,8 +55,6 @@ Para el archivo table_C_coupons esperamos:
  * Evaluación de los siguientes KPI 
     * Conversión
     * Inversión
-    * ACoS
-    * Efectividad del dolar invertido
     * Cantidad de ordenes 
     * AOV
 
