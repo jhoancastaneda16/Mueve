@@ -49,7 +49,6 @@ Para los archivos table_A_conversions & table_B_attribution, los cuales se cruza
  * Segmentación de usuarios utilizando "Distribución normal" (Construcción campana de gauss en excel)
  * ¿Vemos una evolución en los clientes?
  * Algunas segmentaciones de clientes, identificar los clientes inactivos.
- * Diseñar una campaña para los clientes que tengan una inactividad mayor a 30 días con respecto al max(Conv_Date) del dataset table_A_conversions
 
 Para el archivo table_C_coupons esperamos (PRIORIDAD) :
 
@@ -85,5 +84,6 @@ References: https://github.com/chiper-inc/bi-challenge
 
 Thanks: https://github.com/kikeex
 
-CHIPER TEAM
+MUEVE TEAM
 
+BY: https://co.linkedin.com/in/jhoan-jose-casta%C3%B1eda-aristizabal-97b17a133
